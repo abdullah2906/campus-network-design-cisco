@@ -11,6 +11,8 @@ DHCP Server: Centralized IP management to automate device addressing across all 
 DNS Server: Implemented for local domain name resolution.
 ACLs (Access Control Lists): Applied security policies to restrict unauthorized access between sensitive departments.
 
+## 📐 Network Topology
+![Network Topology](topology.png)
 
 
 🚀 How to Run
